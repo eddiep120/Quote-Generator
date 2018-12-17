@@ -1,0 +1,55 @@
+body {
+  background: #cbdeef;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box {
+  position: absolute;
+  margin: 15vh ;
+  width: 85vw;
+  height: 70vh;
+  background: #a499ff;
+}
+.content-container {
+  height: 50vh;
+  padding: 10vh;
+}
+.main {
+  height: 30vh;
+}
+.clickables {
+  position: absolute;
+  bottom: 10vh;
+  width: 75vw;
+}
+.fa-twitter{
+  
+  color: #38A1F3;
+  font-size: 50px;
+  float: left;
+}
+#getQuote {
+  font-size: 20px;
+  background-color: #38A1F3;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  float: right;
+  border-radius: 5px;
+}
+
+#quote {
+  font-family: 'Nova Slim', cursive;
+  font-size: 30px;
+}
+
+.author {
+  font-family: 'Nova Slim', cursive;
+  font-size: 20px;
+}
+
